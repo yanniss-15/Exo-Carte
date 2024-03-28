@@ -1,0 +1,18 @@
+#map {
+    width: 800px;
+    height: 500px;
+    border: rgb(54, 228, 210) 3px solid;
+}
+
+button {
+    height: 3em;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    gap: 10px;
+}
